@@ -1,0 +1,16 @@
+  {
+    "user" : [
+          {
+          "usuario": "glisselisbeth@gmail.com",
+          "password": "123456"
+        },
+        {
+          "usuario": "lucy@gmail.com",
+          "password": "1234"
+        },
+        {
+          "usuario": "rafael@gmail.com",
+          "password": "143423"
+        },
+    ]
+  }
